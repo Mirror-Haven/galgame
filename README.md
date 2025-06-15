@@ -6,7 +6,7 @@
 >
 > 1.什么是安卓设备
 >
-> 2.如何正确的操纵安卓设备其中的
+> 2.如何正确的操纵安卓设备其中的某些步骤
 
 ## 序章：基础中的基础
 
@@ -50,21 +50,15 @@
 #### ② 如何查看设备具体参数/型号（以本人的vivo Y78+为例子）
 
 第一步
-
-#### ![qq_pic_merged_1750014540661](D:\图片\qq_pic_merged_1750014540661.jpg)
+在您的设备上找到设置，并通过点击进入此应用
 
 第二步
-
-![qq_pic_merged_1750014583554](D:\图片\qq_pic_merged_1750014583554.jpg)
+进入页面后往下滑，找到关于本机
 
 第三步
+点击关于本机
 
-![qq_pic_merged_1750014648788](D:\图片\qq_pic_merged_1750014648788.jpg)
-
-
-
-最终你会看见如下页面
-![Screenshot_20250616_030524](D:\图片\Screenshot_20250616_030524.jpg)
+最终你会看见包括你设备的具体型号和其他参数
 
 > [!CAUTION]
 >
@@ -73,10 +67,9 @@
 > 当然，如果您没能学会，b站上还有视频教学
 >
 > 您可以自行移步到b站观看，或者点击下方链接自动跳转
+>
+> https://www.bilibili.com/video/BV1bL4y1h7vJ
 
-视频
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=847807340&bvid=BV1bL4y1h7vJ&cid=402253781&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 
